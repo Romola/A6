@@ -1,0 +1,14 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+
+body{
+	max-width: 900px;
+	margin: 20px auto;
+}
+
+fieldset{
+	padding: 20px 30px;
+
+}
